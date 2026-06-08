@@ -1,0 +1,2630 @@
+{
+  "v": 2,
+  "providers": {
+    "quranapp": {
+      "baseUrl": "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi",
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/listening-manifest.v2.json"
+    },
+    "musulmanin": {
+      "baseUrl": "https://s2.musulmanin.com/audio_knigi/tafsir_saadi"
+    },
+    "translation": {
+      "primary": "https://ummah.su/audio/kuliev",
+      "fallback": "https://s2.musulmanin.com/quran/rus"
+    }
+  },
+  "sources": {
+    "translation": {
+      "provider": "musulmanin",
+      "granularity": "sura",
+      "entries": {
+        "1": [
+          "https://ummah.su/audio/kuliev/001.mp3",
+          "https://s2.musulmanin.com/quran/rus/001.mp3"
+        ],
+        "2": [
+          "https://ummah.su/audio/kuliev/002.mp3",
+          "https://s2.musulmanin.com/quran/rus/002.mp3"
+        ],
+        "3": [
+          "https://ummah.su/audio/kuliev/003.mp3",
+          "https://s2.musulmanin.com/quran/rus/003.mp3"
+        ],
+        "4": [
+          "https://ummah.su/audio/kuliev/004.mp3",
+          "https://s2.musulmanin.com/quran/rus/004.mp3"
+        ],
+        "5": [
+          "https://ummah.su/audio/kuliev/005.mp3",
+          "https://s2.musulmanin.com/quran/rus/005.mp3"
+        ],
+        "6": [
+          "https://ummah.su/audio/kuliev/006.mp3",
+          "https://s2.musulmanin.com/quran/rus/006.mp3"
+        ],
+        "7": [
+          "https://ummah.su/audio/kuliev/007.mp3",
+          "https://s2.musulmanin.com/quran/rus/007.mp3"
+        ],
+        "8": [
+          "https://ummah.su/audio/kuliev/008.mp3",
+          "https://s2.musulmanin.com/quran/rus/008.mp3"
+        ],
+        "9": [
+          "https://ummah.su/audio/kuliev/009.mp3",
+          "https://s2.musulmanin.com/quran/rus/009.mp3"
+        ],
+        "10": [
+          "https://ummah.su/audio/kuliev/010.mp3",
+          "https://s2.musulmanin.com/quran/rus/010.mp3"
+        ],
+        "11": [
+          "https://ummah.su/audio/kuliev/011.mp3",
+          "https://s2.musulmanin.com/quran/rus/011.mp3"
+        ],
+        "12": [
+          "https://ummah.su/audio/kuliev/012.mp3",
+          "https://s2.musulmanin.com/quran/rus/012.mp3"
+        ],
+        "13": [
+          "https://ummah.su/audio/kuliev/013.mp3",
+          "https://s2.musulmanin.com/quran/rus/013.mp3"
+        ],
+        "14": [
+          "https://ummah.su/audio/kuliev/014.mp3",
+          "https://s2.musulmanin.com/quran/rus/014.mp3"
+        ],
+        "15": [
+          "https://ummah.su/audio/kuliev/015.mp3",
+          "https://s2.musulmanin.com/quran/rus/015.mp3"
+        ],
+        "16": [
+          "https://ummah.su/audio/kuliev/016.mp3",
+          "https://s2.musulmanin.com/quran/rus/016.mp3"
+        ],
+        "17": [
+          "https://ummah.su/audio/kuliev/017.mp3",
+          "https://s2.musulmanin.com/quran/rus/017.mp3"
+        ],
+        "18": [
+          "https://ummah.su/audio/kuliev/018.mp3",
+          "https://s2.musulmanin.com/quran/rus/018.mp3"
+        ],
+        "19": [
+          "https://ummah.su/audio/kuliev/019.mp3",
+          "https://s2.musulmanin.com/quran/rus/019.mp3"
+        ],
+        "20": [
+          "https://ummah.su/audio/kuliev/020.mp3",
+          "https://s2.musulmanin.com/quran/rus/020.mp3"
+        ],
+        "21": [
+          "https://ummah.su/audio/kuliev/021.mp3",
+          "https://s2.musulmanin.com/quran/rus/021.mp3"
+        ],
+        "22": [
+          "https://ummah.su/audio/kuliev/022.mp3",
+          "https://s2.musulmanin.com/quran/rus/022.mp3"
+        ],
+        "23": [
+          "https://ummah.su/audio/kuliev/023.mp3",
+          "https://s2.musulmanin.com/quran/rus/023.mp3"
+        ],
+        "24": [
+          "https://ummah.su/audio/kuliev/024.mp3",
+          "https://s2.musulmanin.com/quran/rus/024.mp3"
+        ],
+        "25": [
+          "https://ummah.su/audio/kuliev/025.mp3",
+          "https://s2.musulmanin.com/quran/rus/025.mp3"
+        ],
+        "26": [
+          "https://ummah.su/audio/kuliev/026.mp3",
+          "https://s2.musulmanin.com/quran/rus/026.mp3"
+        ],
+        "27": [
+          "https://ummah.su/audio/kuliev/027.mp3",
+          "https://s2.musulmanin.com/quran/rus/027.mp3"
+        ],
+        "28": [
+          "https://ummah.su/audio/kuliev/028.mp3",
+          "https://s2.musulmanin.com/quran/rus/028.mp3"
+        ],
+        "29": [
+          "https://ummah.su/audio/kuliev/029.mp3",
+          "https://s2.musulmanin.com/quran/rus/029.mp3"
+        ],
+        "30": [
+          "https://ummah.su/audio/kuliev/030.mp3",
+          "https://s2.musulmanin.com/quran/rus/030.mp3"
+        ],
+        "31": [
+          "https://ummah.su/audio/kuliev/031.mp3",
+          "https://s2.musulmanin.com/quran/rus/031.mp3"
+        ],
+        "32": [
+          "https://ummah.su/audio/kuliev/032.mp3",
+          "https://s2.musulmanin.com/quran/rus/032.mp3"
+        ],
+        "33": [
+          "https://ummah.su/audio/kuliev/033.mp3",
+          "https://s2.musulmanin.com/quran/rus/033.mp3"
+        ],
+        "34": [
+          "https://ummah.su/audio/kuliev/034.mp3",
+          "https://s2.musulmanin.com/quran/rus/034.mp3"
+        ],
+        "35": [
+          "https://ummah.su/audio/kuliev/035.mp3",
+          "https://s2.musulmanin.com/quran/rus/035.mp3"
+        ],
+        "36": [
+          "https://ummah.su/audio/kuliev/036.mp3",
+          "https://s2.musulmanin.com/quran/rus/036.mp3"
+        ],
+        "37": [
+          "https://ummah.su/audio/kuliev/037.mp3",
+          "https://s2.musulmanin.com/quran/rus/037.mp3"
+        ],
+        "38": [
+          "https://ummah.su/audio/kuliev/038.mp3",
+          "https://s2.musulmanin.com/quran/rus/038.mp3"
+        ],
+        "39": [
+          "https://ummah.su/audio/kuliev/039.mp3",
+          "https://s2.musulmanin.com/quran/rus/039.mp3"
+        ],
+        "40": [
+          "https://ummah.su/audio/kuliev/040.mp3",
+          "https://s2.musulmanin.com/quran/rus/040.mp3"
+        ],
+        "41": [
+          "https://ummah.su/audio/kuliev/041.mp3",
+          "https://s2.musulmanin.com/quran/rus/041.mp3"
+        ],
+        "42": [
+          "https://ummah.su/audio/kuliev/042.mp3",
+          "https://s2.musulmanin.com/quran/rus/042.mp3"
+        ],
+        "43": [
+          "https://ummah.su/audio/kuliev/043.mp3",
+          "https://s2.musulmanin.com/quran/rus/043.mp3"
+        ],
+        "44": [
+          "https://ummah.su/audio/kuliev/044.mp3",
+          "https://s2.musulmanin.com/quran/rus/044.mp3"
+        ],
+        "45": [
+          "https://ummah.su/audio/kuliev/045.mp3",
+          "https://s2.musulmanin.com/quran/rus/045.mp3"
+        ],
+        "46": [
+          "https://ummah.su/audio/kuliev/046.mp3",
+          "https://s2.musulmanin.com/quran/rus/046.mp3"
+        ],
+        "47": [
+          "https://ummah.su/audio/kuliev/047.mp3",
+          "https://s2.musulmanin.com/quran/rus/047.mp3"
+        ],
+        "48": [
+          "https://ummah.su/audio/kuliev/048.mp3",
+          "https://s2.musulmanin.com/quran/rus/048.mp3"
+        ],
+        "49": [
+          "https://ummah.su/audio/kuliev/049.mp3",
+          "https://s2.musulmanin.com/quran/rus/049.mp3"
+        ],
+        "50": [
+          "https://ummah.su/audio/kuliev/050.mp3",
+          "https://s2.musulmanin.com/quran/rus/050.mp3"
+        ],
+        "51": [
+          "https://ummah.su/audio/kuliev/051.mp3",
+          "https://s2.musulmanin.com/quran/rus/051.mp3"
+        ],
+        "52": [
+          "https://ummah.su/audio/kuliev/052.mp3",
+          "https://s2.musulmanin.com/quran/rus/052.mp3"
+        ],
+        "53": [
+          "https://ummah.su/audio/kuliev/053.mp3",
+          "https://s2.musulmanin.com/quran/rus/053.mp3"
+        ],
+        "54": [
+          "https://ummah.su/audio/kuliev/054.mp3",
+          "https://s2.musulmanin.com/quran/rus/054.mp3"
+        ],
+        "55": [
+          "https://ummah.su/audio/kuliev/055.mp3",
+          "https://s2.musulmanin.com/quran/rus/055.mp3"
+        ],
+        "56": [
+          "https://ummah.su/audio/kuliev/056.mp3",
+          "https://s2.musulmanin.com/quran/rus/056.mp3"
+        ],
+        "57": [
+          "https://ummah.su/audio/kuliev/057.mp3",
+          "https://s2.musulmanin.com/quran/rus/057.mp3"
+        ],
+        "58": [
+          "https://ummah.su/audio/kuliev/058.mp3",
+          "https://s2.musulmanin.com/quran/rus/058.mp3"
+        ],
+        "59": [
+          "https://ummah.su/audio/kuliev/059.mp3",
+          "https://s2.musulmanin.com/quran/rus/059.mp3"
+        ],
+        "60": [
+          "https://ummah.su/audio/kuliev/060.mp3",
+          "https://s2.musulmanin.com/quran/rus/060.mp3"
+        ],
+        "61": [
+          "https://ummah.su/audio/kuliev/061.mp3",
+          "https://s2.musulmanin.com/quran/rus/061.mp3"
+        ],
+        "62": [
+          "https://ummah.su/audio/kuliev/062.mp3",
+          "https://s2.musulmanin.com/quran/rus/062.mp3"
+        ],
+        "63": [
+          "https://ummah.su/audio/kuliev/063.mp3",
+          "https://s2.musulmanin.com/quran/rus/063.mp3"
+        ],
+        "64": [
+          "https://ummah.su/audio/kuliev/064.mp3",
+          "https://s2.musulmanin.com/quran/rus/064.mp3"
+        ],
+        "65": [
+          "https://ummah.su/audio/kuliev/065.mp3",
+          "https://s2.musulmanin.com/quran/rus/065.mp3"
+        ],
+        "66": [
+          "https://ummah.su/audio/kuliev/066.mp3",
+          "https://s2.musulmanin.com/quran/rus/066.mp3"
+        ],
+        "67": [
+          "https://ummah.su/audio/kuliev/067.mp3",
+          "https://s2.musulmanin.com/quran/rus/067.mp3"
+        ],
+        "68": [
+          "https://ummah.su/audio/kuliev/068.mp3",
+          "https://s2.musulmanin.com/quran/rus/068.mp3"
+        ],
+        "69": [
+          "https://ummah.su/audio/kuliev/069.mp3",
+          "https://s2.musulmanin.com/quran/rus/069.mp3"
+        ],
+        "70": [
+          "https://ummah.su/audio/kuliev/070.mp3",
+          "https://s2.musulmanin.com/quran/rus/070.mp3"
+        ],
+        "71": [
+          "https://ummah.su/audio/kuliev/071.mp3",
+          "https://s2.musulmanin.com/quran/rus/071.mp3"
+        ],
+        "72": [
+          "https://ummah.su/audio/kuliev/072.mp3",
+          "https://s2.musulmanin.com/quran/rus/072.mp3"
+        ],
+        "73": [
+          "https://ummah.su/audio/kuliev/073.mp3",
+          "https://s2.musulmanin.com/quran/rus/073.mp3"
+        ],
+        "74": [
+          "https://ummah.su/audio/kuliev/074.mp3",
+          "https://s2.musulmanin.com/quran/rus/074.mp3"
+        ],
+        "75": [
+          "https://ummah.su/audio/kuliev/075.mp3",
+          "https://s2.musulmanin.com/quran/rus/075.mp3"
+        ],
+        "76": [
+          "https://ummah.su/audio/kuliev/076.mp3",
+          "https://s2.musulmanin.com/quran/rus/076.mp3"
+        ],
+        "77": [
+          "https://ummah.su/audio/kuliev/077.mp3",
+          "https://s2.musulmanin.com/quran/rus/077.mp3"
+        ],
+        "78": [
+          "https://ummah.su/audio/kuliev/078.mp3",
+          "https://s2.musulmanin.com/quran/rus/078.mp3"
+        ],
+        "79": [
+          "https://ummah.su/audio/kuliev/079.mp3",
+          "https://s2.musulmanin.com/quran/rus/079.mp3"
+        ],
+        "80": [
+          "https://ummah.su/audio/kuliev/080.mp3",
+          "https://s2.musulmanin.com/quran/rus/080.mp3"
+        ],
+        "81": [
+          "https://ummah.su/audio/kuliev/081.mp3",
+          "https://s2.musulmanin.com/quran/rus/081.mp3"
+        ],
+        "82": [
+          "https://ummah.su/audio/kuliev/082.mp3",
+          "https://s2.musulmanin.com/quran/rus/082.mp3"
+        ],
+        "83": [
+          "https://ummah.su/audio/kuliev/083.mp3",
+          "https://s2.musulmanin.com/quran/rus/083.mp3"
+        ],
+        "84": [
+          "https://ummah.su/audio/kuliev/084.mp3",
+          "https://s2.musulmanin.com/quran/rus/084.mp3"
+        ],
+        "85": [
+          "https://ummah.su/audio/kuliev/085.mp3",
+          "https://s2.musulmanin.com/quran/rus/085.mp3"
+        ],
+        "86": [
+          "https://ummah.su/audio/kuliev/086.mp3",
+          "https://s2.musulmanin.com/quran/rus/086.mp3"
+        ],
+        "87": [
+          "https://ummah.su/audio/kuliev/087.mp3",
+          "https://s2.musulmanin.com/quran/rus/087.mp3"
+        ],
+        "88": [
+          "https://ummah.su/audio/kuliev/088.mp3",
+          "https://s2.musulmanin.com/quran/rus/088.mp3"
+        ],
+        "89": [
+          "https://ummah.su/audio/kuliev/089.mp3",
+          "https://s2.musulmanin.com/quran/rus/089.mp3"
+        ],
+        "90": [
+          "https://ummah.su/audio/kuliev/090.mp3",
+          "https://s2.musulmanin.com/quran/rus/090.mp3"
+        ],
+        "91": [
+          "https://ummah.su/audio/kuliev/091.mp3",
+          "https://s2.musulmanin.com/quran/rus/091.mp3"
+        ],
+        "92": [
+          "https://ummah.su/audio/kuliev/092.mp3",
+          "https://s2.musulmanin.com/quran/rus/092.mp3"
+        ],
+        "93": [
+          "https://ummah.su/audio/kuliev/093.mp3",
+          "https://s2.musulmanin.com/quran/rus/093.mp3"
+        ],
+        "94": [
+          "https://ummah.su/audio/kuliev/094.mp3",
+          "https://s2.musulmanin.com/quran/rus/094.mp3"
+        ],
+        "95": [
+          "https://ummah.su/audio/kuliev/095.mp3",
+          "https://s2.musulmanin.com/quran/rus/095.mp3"
+        ],
+        "96": [
+          "https://ummah.su/audio/kuliev/096.mp3",
+          "https://s2.musulmanin.com/quran/rus/096.mp3"
+        ],
+        "97": [
+          "https://ummah.su/audio/kuliev/097.mp3",
+          "https://s2.musulmanin.com/quran/rus/097.mp3"
+        ],
+        "98": [
+          "https://ummah.su/audio/kuliev/098.mp3",
+          "https://s2.musulmanin.com/quran/rus/098.mp3"
+        ],
+        "99": [
+          "https://ummah.su/audio/kuliev/099.mp3",
+          "https://s2.musulmanin.com/quran/rus/099.mp3"
+        ],
+        "100": [
+          "https://ummah.su/audio/kuliev/100.mp3",
+          "https://s2.musulmanin.com/quran/rus/100.mp3"
+        ],
+        "101": [
+          "https://ummah.su/audio/kuliev/101.mp3",
+          "https://s2.musulmanin.com/quran/rus/101.mp3"
+        ],
+        "102": [
+          "https://ummah.su/audio/kuliev/102.mp3",
+          "https://s2.musulmanin.com/quran/rus/102.mp3"
+        ],
+        "103": [
+          "https://ummah.su/audio/kuliev/103.mp3",
+          "https://s2.musulmanin.com/quran/rus/103.mp3"
+        ],
+        "104": [
+          "https://ummah.su/audio/kuliev/104.mp3",
+          "https://s2.musulmanin.com/quran/rus/104.mp3"
+        ],
+        "105": [
+          "https://ummah.su/audio/kuliev/105.mp3",
+          "https://s2.musulmanin.com/quran/rus/105.mp3"
+        ],
+        "106": [
+          "https://ummah.su/audio/kuliev/106.mp3",
+          "https://s2.musulmanin.com/quran/rus/106.mp3"
+        ],
+        "107": [
+          "https://ummah.su/audio/kuliev/107.mp3",
+          "https://s2.musulmanin.com/quran/rus/107.mp3"
+        ],
+        "108": [
+          "https://ummah.su/audio/kuliev/108.mp3",
+          "https://s2.musulmanin.com/quran/rus/108.mp3"
+        ],
+        "109": [
+          "https://ummah.su/audio/kuliev/109.mp3",
+          "https://s2.musulmanin.com/quran/rus/109.mp3"
+        ],
+        "110": [
+          "https://ummah.su/audio/kuliev/110.mp3",
+          "https://s2.musulmanin.com/quran/rus/110.mp3"
+        ],
+        "111": [
+          "https://ummah.su/audio/kuliev/111.mp3",
+          "https://s2.musulmanin.com/quran/rus/111.mp3"
+        ],
+        "112": [
+          "https://ummah.su/audio/kuliev/112.mp3",
+          "https://s2.musulmanin.com/quran/rus/112.mp3"
+        ],
+        "113": [
+          "https://ummah.su/audio/kuliev/113.mp3",
+          "https://s2.musulmanin.com/quran/rus/113.mp3"
+        ],
+        "114": [
+          "https://ummah.su/audio/kuliev/114.mp3",
+          "https://s2.musulmanin.com/quran/rus/114.mp3"
+        ]
+      }
+    },
+    "tafsir": {
+      "provider": "quranapp",
+      "granularity": "segment",
+      "entries": {
+        "1": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/001.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/001.mp3"
+        ],
+        "32": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/032.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/032.mp3"
+        ],
+        "44": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/044.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/044.mp3"
+        ],
+        "45": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/045.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/045.mp3"
+        ],
+        "49": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/049.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/049.mp3"
+        ],
+        "50": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/050.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/050.mp3"
+        ],
+        "52": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/052.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/052.mp3"
+        ],
+        "54": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/054.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/054.mp3"
+        ],
+        "55": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/055.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/055.mp3"
+        ],
+        "58": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/058.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/058.mp3"
+        ],
+        "60": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/060.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/060.mp3"
+        ],
+        "61": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/061.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/061.mp3"
+        ],
+        "62": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/062.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/062.mp3"
+        ],
+        "63": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/063.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/063.mp3"
+        ],
+        "64": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/064.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/064.mp3"
+        ],
+        "65": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/065.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/065.mp3"
+        ],
+        "66": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/066.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/066.mp3"
+        ],
+        "67": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/067.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/067.mp3"
+        ],
+        "68": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/068.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/068.mp3"
+        ],
+        "69": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/069.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/069.mp3"
+        ],
+        "70": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/070.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/070.mp3"
+        ],
+        "71": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/071.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/071.mp3"
+        ],
+        "72": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/072.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/072.mp3"
+        ],
+        "73": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/073.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/073.mp3"
+        ],
+        "74": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/074.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/074.mp3"
+        ],
+        "75": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/075.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/075.mp3"
+        ],
+        "76": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/076.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/076.mp3"
+        ],
+        "77": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/077.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/077.mp3"
+        ],
+        "78": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/078.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/078.mp3"
+        ],
+        "79": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/079.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/079.mp3"
+        ],
+        "80": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/080.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/080.mp3"
+        ],
+        "81": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/081.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/081.mp3"
+        ],
+        "82": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/082.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/082.mp3"
+        ],
+        "83": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/083.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/083.mp3"
+        ],
+        "84": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/084.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/084.mp3"
+        ],
+        "85": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/085.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/085.mp3"
+        ],
+        "86": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/086.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/086.mp3"
+        ],
+        "87": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/087.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/087.mp3"
+        ],
+        "88": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/088.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/088.mp3"
+        ],
+        "89": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/089.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/089.mp3"
+        ],
+        "90": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/090.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/090.mp3"
+        ],
+        "91": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/091.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/091.mp3"
+        ],
+        "92": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/092.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/092.mp3"
+        ],
+        "93": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/093.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/093.mp3"
+        ],
+        "94": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/094.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/094.mp3"
+        ],
+        "95": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/095.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/095.mp3"
+        ],
+        "96": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/096.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/096.mp3"
+        ],
+        "97": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/097.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/097.mp3"
+        ],
+        "98": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/098.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/098.mp3"
+        ],
+        "99": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/099.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/099.mp3"
+        ],
+        "100": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/100.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/100.mp3"
+        ],
+        "101": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/101.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/101.mp3"
+        ],
+        "102": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/102.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/102.mp3"
+        ],
+        "103": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/103.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/103.mp3"
+        ],
+        "104": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/104.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/104.mp3"
+        ],
+        "105": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/105.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/105.mp3"
+        ],
+        "106": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/106.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/106.mp3"
+        ],
+        "107": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/107.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/107.mp3"
+        ],
+        "108": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/108.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/108.mp3"
+        ],
+        "109": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/109.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/109.mp3"
+        ],
+        "110": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/110.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/110.mp3"
+        ],
+        "111": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/111.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/111.mp3"
+        ],
+        "112": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/112.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/112.mp3"
+        ],
+        "113": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/113.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/113.mp3"
+        ],
+        "114": [
+          "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/114.mp3",
+          "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/114.mp3"
+        ]
+      },
+      "segmentEntries": {
+        "2": [
+          {
+            "startAyah": 1,
+            "endAyah": 11,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_001-011.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_001-011.mp3"
+            ]
+          },
+          {
+            "startAyah": 12,
+            "endAyah": 23,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_012-023.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_012-023.mp3"
+            ]
+          },
+          {
+            "startAyah": 24,
+            "endAyah": 32,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_024-032.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_024-032.mp3"
+            ]
+          },
+          {
+            "startAyah": 33,
+            "endAyah": 46,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_033-046.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_033-046.mp3"
+            ]
+          },
+          {
+            "startAyah": 47,
+            "endAyah": 73,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_047-073.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_047-073.mp3"
+            ]
+          },
+          {
+            "startAyah": 74,
+            "endAyah": 87,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_074-087.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_074-087.mp3"
+            ]
+          },
+          {
+            "startAyah": 88,
+            "endAyah": 104,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_088-104.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_088-104.mp3"
+            ]
+          },
+          {
+            "startAyah": 105,
+            "endAyah": 119,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_105-119.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_105-119.mp3"
+            ]
+          },
+          {
+            "startAyah": 120,
+            "endAyah": 135,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_120-135.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_120-135.mp3"
+            ]
+          },
+          {
+            "startAyah": 136,
+            "endAyah": 141,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_136-141.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_136-141.mp3"
+            ]
+          },
+          {
+            "startAyah": 142,
+            "endAyah": 147,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_142-147.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_142-147.mp3"
+            ]
+          },
+          {
+            "startAyah": 148,
+            "endAyah": 156,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_148-156.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_148-156.mp3"
+            ]
+          },
+          {
+            "startAyah": 157,
+            "endAyah": 164,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_157-164.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_157-164.mp3"
+            ]
+          },
+          {
+            "startAyah": 165,
+            "endAyah": 175,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_165-175.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_165-175.mp3"
+            ]
+          },
+          {
+            "startAyah": 176,
+            "endAyah": 182,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_176-182.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_176-182.mp3"
+            ]
+          },
+          {
+            "startAyah": 183,
+            "endAyah": 194,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_183-194.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_183-194.mp3"
+            ]
+          },
+          {
+            "startAyah": 194,
+            "endAyah": 199,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_194-199.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_194-199.mp3"
+            ]
+          },
+          {
+            "startAyah": 200,
+            "endAyah": 212,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_200-212.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_200-212.mp3"
+            ]
+          },
+          {
+            "startAyah": 213,
+            "endAyah": 219,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_213-219.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_213-219.mp3"
+            ]
+          },
+          {
+            "startAyah": 220,
+            "endAyah": 228,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_220-228.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_220-228.mp3"
+            ]
+          },
+          {
+            "startAyah": 229,
+            "endAyah": 236,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_229-236.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_229-236.mp3"
+            ]
+          },
+          {
+            "startAyah": 237,
+            "endAyah": 252,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_237-252.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_237-252.mp3"
+            ]
+          },
+          {
+            "startAyah": 253,
+            "endAyah": 259,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_253-259.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_253-259.mp3"
+            ]
+          },
+          {
+            "startAyah": 260,
+            "endAyah": 273,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_260-273.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_260-273.mp3"
+            ]
+          },
+          {
+            "startAyah": 274,
+            "endAyah": 286,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/002_274-286.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/002_274-286.mp3"
+            ]
+          }
+        ],
+        "3": [
+          {
+            "startAyah": 1,
+            "endAyah": 25,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/003_001-025.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/003_001-025.mp3"
+            ]
+          },
+          {
+            "startAyah": 26,
+            "endAyah": 54,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/003_026-054.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/003_026-054.mp3"
+            ]
+          },
+          {
+            "startAyah": 55,
+            "endAyah": 82,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/003_055-082.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/003_055-082.mp3"
+            ]
+          },
+          {
+            "startAyah": 83,
+            "endAyah": 112,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/003_083-112.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/003_083-112.mp3"
+            ]
+          },
+          {
+            "startAyah": 112,
+            "endAyah": 134,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/003_112-134.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/003_112-134.mp3"
+            ]
+          },
+          {
+            "startAyah": 134,
+            "endAyah": 152,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/003_134-152.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/003_134-152.mp3"
+            ]
+          },
+          {
+            "startAyah": 153,
+            "endAyah": 165,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/003_153-165.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/003_153-165.mp3"
+            ]
+          },
+          {
+            "startAyah": 166,
+            "endAyah": 184,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/003_166-184.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/003_166-184.mp3"
+            ]
+          },
+          {
+            "startAyah": 185,
+            "endAyah": 200,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/003_185-200.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/003_185-200.mp3"
+            ]
+          }
+        ],
+        "4": [
+          {
+            "startAyah": 1,
+            "endAyah": 10,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/004_001-010.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/004_001-010.mp3"
+            ]
+          },
+          {
+            "startAyah": 11,
+            "endAyah": 12,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/004_011-012.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/004_011-012.mp3"
+            ]
+          },
+          {
+            "startAyah": 13,
+            "endAyah": 23,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/004_013-023.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/004_013-023.mp3"
+            ]
+          },
+          {
+            "startAyah": 24,
+            "endAyah": 34,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/004_024-034.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/004_024-034.mp3"
+            ]
+          },
+          {
+            "startAyah": 35,
+            "endAyah": 44,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/004_035-044.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/004_035-044.mp3"
+            ]
+          },
+          {
+            "startAyah": 45,
+            "endAyah": 62,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/004_045-062.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/004_045-062.mp3"
+            ]
+          },
+          {
+            "startAyah": 63,
+            "endAyah": 75,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/004_063-075.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/004_063-075.mp3"
+            ]
+          },
+          {
+            "startAyah": 76,
+            "endAyah": 83,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/004_076-083.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/004_076-083.mp3"
+            ]
+          },
+          {
+            "startAyah": 84,
+            "endAyah": 93,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/004_084-093.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/004_084-093.mp3"
+            ]
+          },
+          {
+            "startAyah": 94,
+            "endAyah": 101,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/004_094-101.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/004_094-101.mp3"
+            ]
+          },
+          {
+            "startAyah": 102,
+            "endAyah": 111,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/004_102-111.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/004_102-111.mp3"
+            ]
+          },
+          {
+            "startAyah": 112,
+            "endAyah": 132,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/004_112-132.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/004_112-132.mp3"
+            ]
+          },
+          {
+            "startAyah": 133,
+            "endAyah": 143,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/004_133-143.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/004_133-143.mp3"
+            ]
+          },
+          {
+            "startAyah": 144,
+            "endAyah": 162,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/004_144-162.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/004_144-162.mp3"
+            ]
+          },
+          {
+            "startAyah": 163,
+            "endAyah": 176,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/004_163-176.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/004_163-176.mp3"
+            ]
+          }
+        ],
+        "5": [
+          {
+            "startAyah": 1,
+            "endAyah": 4,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/005_001-004.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/005_001-004.mp3"
+            ]
+          },
+          {
+            "startAyah": 5,
+            "endAyah": 13,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/005_005-013.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/005_005-013.mp3"
+            ]
+          },
+          {
+            "startAyah": 14,
+            "endAyah": 31,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/005_014-031.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/005_014-031.mp3"
+            ]
+          },
+          {
+            "startAyah": 32,
+            "endAyah": 48,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/005_032-048.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/005_032-048.mp3"
+            ]
+          },
+          {
+            "startAyah": 49,
+            "endAyah": 63,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/005_049-063.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/005_049-063.mp3"
+            ]
+          },
+          {
+            "startAyah": 64,
+            "endAyah": 84,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/005_064-084.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/005_064-084.mp3"
+            ]
+          },
+          {
+            "startAyah": 85,
+            "endAyah": 100,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/005_085-100.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/005_085-100.mp3"
+            ]
+          },
+          {
+            "startAyah": 101,
+            "endAyah": 120,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/005_101-120.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/005_101-120.mp3"
+            ]
+          }
+        ],
+        "6": [
+          {
+            "startAyah": 1,
+            "endAyah": 19,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/006_001-019.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/006_001-019.mp3"
+            ]
+          },
+          {
+            "startAyah": 20,
+            "endAyah": 41,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/006_020-041.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/006_020-041.mp3"
+            ]
+          },
+          {
+            "startAyah": 42,
+            "endAyah": 61,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/006_042-061.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/006_042-061.mp3"
+            ]
+          },
+          {
+            "startAyah": 62,
+            "endAyah": 81,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/006_062-081.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/006_062-081.mp3"
+            ]
+          },
+          {
+            "startAyah": 82,
+            "endAyah": 96,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/006_082-096.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/006_082-096.mp3"
+            ]
+          },
+          {
+            "startAyah": 97,
+            "endAyah": 109,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/006_097-109.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/006_097-109.mp3"
+            ]
+          },
+          {
+            "startAyah": 110,
+            "endAyah": 125,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/006_110-125.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/006_110-125.mp3"
+            ]
+          },
+          {
+            "startAyah": 126,
+            "endAyah": 140,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/006_126-140.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/006_126-140.mp3"
+            ]
+          },
+          {
+            "startAyah": 141,
+            "endAyah": 150,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/006_141-150.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/006_141-150.mp3"
+            ]
+          },
+          {
+            "startAyah": 151,
+            "endAyah": 165,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/006_151-165.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/006_151-165.mp3"
+            ]
+          }
+        ],
+        "7": [
+          {
+            "startAyah": 1,
+            "endAyah": 27,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/007_001-027.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/007_001-027.mp3"
+            ]
+          },
+          {
+            "startAyah": 28,
+            "endAyah": 43,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/007_028-043.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/007_028-043.mp3"
+            ]
+          },
+          {
+            "startAyah": 44,
+            "endAyah": 59,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/007_044-059.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/007_044-059.mp3"
+            ]
+          },
+          {
+            "startAyah": 60,
+            "endAyah": 79,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/007_060-079.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/007_060-079.mp3"
+            ]
+          },
+          {
+            "startAyah": 80,
+            "endAyah": 101,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/007_080-101.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/007_080-101.mp3"
+            ]
+          },
+          {
+            "startAyah": 102,
+            "endAyah": 135,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/007_102-135.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/007_102-135.mp3"
+            ]
+          },
+          {
+            "startAyah": 136,
+            "endAyah": 153,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/007_136-153.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/007_136-153.mp3"
+            ]
+          },
+          {
+            "startAyah": 154,
+            "endAyah": 168,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/007_154-168.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/007_154-168.mp3"
+            ]
+          },
+          {
+            "startAyah": 169,
+            "endAyah": 187,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/007_169-187.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/007_169-187.mp3"
+            ]
+          },
+          {
+            "startAyah": 188,
+            "endAyah": 206,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/007_188-206.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/007_188-206.mp3"
+            ]
+          }
+        ],
+        "8": [
+          {
+            "startAyah": 1,
+            "endAyah": 23,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/008_01-23.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/008_01-23.mp3"
+            ]
+          },
+          {
+            "startAyah": 24,
+            "endAyah": 40,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/008_24-40.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/008_24-40.mp3"
+            ]
+          },
+          {
+            "startAyah": 41,
+            "endAyah": 59,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/008_41-59.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/008_41-59.mp3"
+            ]
+          },
+          {
+            "startAyah": 60,
+            "endAyah": 75,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/008_60-75.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/008_60-75.mp3"
+            ]
+          }
+        ],
+        "9": [
+          {
+            "startAyah": 1,
+            "endAyah": 20,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/009_001-020.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/009_001-020.mp3"
+            ]
+          },
+          {
+            "startAyah": 21,
+            "endAyah": 31,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/009_021-031.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/009_021-031.mp3"
+            ]
+          },
+          {
+            "startAyah": 32,
+            "endAyah": 43,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/009_032-043.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/009_032-043.mp3"
+            ]
+          },
+          {
+            "startAyah": 44,
+            "endAyah": 61,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/009_044-061.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/009_044-061.mp3"
+            ]
+          },
+          {
+            "startAyah": 62,
+            "endAyah": 79,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/009_062-079.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/009_062-079.mp3"
+            ]
+          },
+          {
+            "startAyah": 80,
+            "endAyah": 99,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/009_080-099.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/009_080-099.mp3"
+            ]
+          },
+          {
+            "startAyah": 100,
+            "endAyah": 111,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/009_100-111.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/009_100-111.mp3"
+            ]
+          },
+          {
+            "startAyah": 112,
+            "endAyah": 129,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/009_112-129.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/009_112-129.mp3"
+            ]
+          }
+        ],
+        "10": [
+          {
+            "startAyah": 1,
+            "endAyah": 17,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/010_001-017.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/010_001-017.mp3"
+            ]
+          },
+          {
+            "startAyah": 18,
+            "endAyah": 33,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/010_018-033.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/010_018-033.mp3"
+            ]
+          },
+          {
+            "startAyah": 34,
+            "endAyah": 57,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/010_034-057.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/010_034-057.mp3"
+            ]
+          },
+          {
+            "startAyah": 58,
+            "endAyah": 78,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/010_058-078.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/010_058-078.mp3"
+            ]
+          },
+          {
+            "startAyah": 79,
+            "endAyah": 109,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/010_079-109.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/010_079-109.mp3"
+            ]
+          }
+        ],
+        "11": [
+          {
+            "startAyah": 1,
+            "endAyah": 20,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/011_001-020.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/011_001-020.mp3"
+            ]
+          },
+          {
+            "startAyah": 21,
+            "endAyah": 48,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/011_021-048.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/011_021-048.mp3"
+            ]
+          },
+          {
+            "startAyah": 49,
+            "endAyah": 73,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/011_049-073.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/011_049-073.mp3"
+            ]
+          },
+          {
+            "startAyah": 74,
+            "endAyah": 95,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/011_074-095.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/011_074-095.mp3"
+            ]
+          },
+          {
+            "startAyah": 96,
+            "endAyah": 123,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/011_096-123.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/011_096-123.mp3"
+            ]
+          }
+        ],
+        "12": [
+          {
+            "startAyah": 1,
+            "endAyah": 25,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/012_001-025.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/012_001-025.mp3"
+            ]
+          },
+          {
+            "startAyah": 26,
+            "endAyah": 46,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/012_026-046.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/012_026-046.mp3"
+            ]
+          },
+          {
+            "startAyah": 47,
+            "endAyah": 76,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/012_047-076.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/012_047-076.mp3"
+            ]
+          },
+          {
+            "startAyah": 77,
+            "endAyah": 106,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/012_077-106.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/012_077-106.mp3"
+            ]
+          },
+          {
+            "startAyah": 107,
+            "endAyah": 111,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/012_107-111.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/012_107-111.mp3"
+            ]
+          }
+        ],
+        "13": [
+          {
+            "startAyah": 1,
+            "endAyah": 14,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/013_01-14.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/013_01-14.mp3"
+            ]
+          },
+          {
+            "startAyah": 15,
+            "endAyah": 30,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/013_15-30.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/013_15-30.mp3"
+            ]
+          },
+          {
+            "startAyah": 31,
+            "endAyah": 43,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/013_31-43.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/013_31-43.mp3"
+            ]
+          }
+        ],
+        "14": [
+          {
+            "startAyah": 1,
+            "endAyah": 15,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/014_01-15.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/014_01-15.mp3"
+            ]
+          },
+          {
+            "startAyah": 16,
+            "endAyah": 33,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/014_16-33.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/014_16-33.mp3"
+            ]
+          },
+          {
+            "startAyah": 34,
+            "endAyah": 52,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/014_34-52.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/014_34-52.mp3"
+            ]
+          }
+        ],
+        "15": [
+          {
+            "startAyah": 1,
+            "endAyah": 48,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/015_01-48.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/015_01-48.mp3"
+            ]
+          },
+          {
+            "startAyah": 49,
+            "endAyah": 99,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/015_49-99.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/015_49-99.mp3"
+            ]
+          }
+        ],
+        "16": [
+          {
+            "startAyah": 1,
+            "endAyah": 27,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/016_001-027.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/016_001-027.mp3"
+            ]
+          },
+          {
+            "startAyah": 28,
+            "endAyah": 55,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/016_028-055.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/016_028-055.mp3"
+            ]
+          },
+          {
+            "startAyah": 56,
+            "endAyah": 80,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/016_056-080.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/016_056-080.mp3"
+            ]
+          },
+          {
+            "startAyah": 81,
+            "endAyah": 97,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/016_081-097.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/016_081-097.mp3"
+            ]
+          },
+          {
+            "startAyah": 98,
+            "endAyah": 128,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/016_098-128.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/016_098-128.mp3"
+            ]
+          }
+        ],
+        "17": [
+          {
+            "startAyah": 1,
+            "endAyah": 23,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/017_001-023.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/017_001-023.mp3"
+            ]
+          },
+          {
+            "startAyah": 24,
+            "endAyah": 44,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/017_024-044.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/017_024-044.mp3"
+            ]
+          },
+          {
+            "startAyah": 45,
+            "endAyah": 65,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/017_045-065.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/017_045-065.mp3"
+            ]
+          },
+          {
+            "startAyah": 66,
+            "endAyah": 87,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/017_066-087.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/017_066-087.mp3"
+            ]
+          },
+          {
+            "startAyah": 88,
+            "endAyah": 111,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/017_088-111.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/017_088-111.mp3"
+            ]
+          }
+        ],
+        "18": [
+          {
+            "startAyah": 1,
+            "endAyah": 20,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/018_001-020.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/018_001-020.mp3"
+            ]
+          },
+          {
+            "startAyah": 21,
+            "endAyah": 36,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/018_021-036.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/018_021-036.mp3"
+            ]
+          },
+          {
+            "startAyah": 37,
+            "endAyah": 54,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/018_037-054.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/018_037-054.mp3"
+            ]
+          },
+          {
+            "startAyah": 55,
+            "endAyah": 81,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/018_055-081.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/018_055-081.mp3"
+            ]
+          },
+          {
+            "startAyah": 82,
+            "endAyah": 88,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/018_082-088.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/018_082-088.mp3"
+            ]
+          },
+          {
+            "startAyah": 89,
+            "endAyah": 110,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/018_089-110.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/018_089-110.mp3"
+            ]
+          }
+        ],
+        "19": [
+          {
+            "startAyah": 1,
+            "endAyah": 29,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/019_01-29.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/019_01-29.mp3"
+            ]
+          },
+          {
+            "startAyah": 30,
+            "endAyah": 50,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/019_30-50.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/019_30-50.mp3"
+            ]
+          },
+          {
+            "startAyah": 51,
+            "endAyah": 68,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/019_51-68.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/019_51-68.mp3"
+            ]
+          },
+          {
+            "startAyah": 69,
+            "endAyah": 98,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/019_69-98.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/019_69-98.mp3"
+            ]
+          }
+        ],
+        "20": [
+          {
+            "startAyah": 1,
+            "endAyah": 32,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/020_001-032.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/020_001-032.mp3"
+            ]
+          },
+          {
+            "startAyah": 33,
+            "endAyah": 63,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/020_033-063.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/020_033-063.mp3"
+            ]
+          },
+          {
+            "startAyah": 64,
+            "endAyah": 85,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/020_064-085.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/020_064-085.mp3"
+            ]
+          },
+          {
+            "startAyah": 86,
+            "endAyah": 114,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/020_086-114.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/020_086-114.mp3"
+            ]
+          },
+          {
+            "startAyah": 115,
+            "endAyah": 135,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/020_115-135.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/020_115-135.mp3"
+            ]
+          }
+        ],
+        "21": [
+          {
+            "startAyah": 1,
+            "endAyah": 20,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/021_001-020.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/021_001-020.mp3"
+            ]
+          },
+          {
+            "startAyah": 21,
+            "endAyah": 35,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/021_021-035.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/021_021-035.mp3"
+            ]
+          },
+          {
+            "startAyah": 36,
+            "endAyah": 51,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/021_036-051.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/021_036-051.mp3"
+            ]
+          },
+          {
+            "startAyah": 52,
+            "endAyah": 86,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/021_052-086.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/021_052-086.mp3"
+            ]
+          },
+          {
+            "startAyah": 87,
+            "endAyah": 112,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/021_087-112.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/021_087-112.mp3"
+            ]
+          }
+        ],
+        "22": [
+          {
+            "startAyah": 1,
+            "endAyah": 18,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/022_01-18.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/022_01-18.mp3"
+            ]
+          },
+          {
+            "startAyah": 19,
+            "endAyah": 39,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/022_19-39.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/022_19-39.mp3"
+            ]
+          },
+          {
+            "startAyah": 40,
+            "endAyah": 58,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/022_40-58.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/022_40-58.mp3"
+            ]
+          },
+          {
+            "startAyah": 59,
+            "endAyah": 78,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/022_59-78.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/022_59-78.mp3"
+            ]
+          }
+        ],
+        "23": [
+          {
+            "startAyah": 1,
+            "endAyah": 26,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/023_001-026.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/023_001-026.mp3"
+            ]
+          },
+          {
+            "startAyah": 27,
+            "endAyah": 56,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/023_027-056.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/023_027-056.mp3"
+            ]
+          },
+          {
+            "startAyah": 57,
+            "endAyah": 83,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/023_057-083.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/023_057-083.mp3"
+            ]
+          },
+          {
+            "startAyah": 84,
+            "endAyah": 118,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/023_084-118.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/023_084-118.mp3"
+            ]
+          }
+        ],
+        "24": [
+          {
+            "startAyah": 1,
+            "endAyah": 24,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/024_01-24.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/024_01-24.mp3"
+            ]
+          },
+          {
+            "startAyah": 25,
+            "endAyah": 35,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/024_25-35.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/024_25-35.mp3"
+            ]
+          },
+          {
+            "startAyah": 36,
+            "endAyah": 52,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/024_36-52.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/024_36-52.mp3"
+            ]
+          },
+          {
+            "startAyah": 53,
+            "endAyah": 64,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/024_53-64.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/024_53-64.mp3"
+            ]
+          }
+        ],
+        "25": [
+          {
+            "startAyah": 1,
+            "endAyah": 18,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/025_01-18.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/025_01-18.mp3"
+            ]
+          },
+          {
+            "startAyah": 19,
+            "endAyah": 40,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/025_19-40.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/025_19-40.mp3"
+            ]
+          },
+          {
+            "startAyah": 41,
+            "endAyah": 62,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/025_41-62.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/025_41-62.mp3"
+            ]
+          },
+          {
+            "startAyah": 63,
+            "endAyah": 77,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/025_63-77.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/025_63-77.mp3"
+            ]
+          }
+        ],
+        "26": [
+          {
+            "startAyah": 1,
+            "endAyah": 42,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/026_001-042.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/026_001-042.mp3"
+            ]
+          },
+          {
+            "startAyah": 43,
+            "endAyah": 113,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/026_043-113.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/026_043-113.mp3"
+            ]
+          },
+          {
+            "startAyah": 114,
+            "endAyah": 185,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/026_114-185.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/026_114-185.mp3"
+            ]
+          },
+          {
+            "startAyah": 186,
+            "endAyah": 227,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/026_186-227.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/026_186-227.mp3"
+            ]
+          }
+        ],
+        "27": [
+          {
+            "startAyah": 1,
+            "endAyah": 20,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/027_01-20.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/027_01-20.mp3"
+            ]
+          },
+          {
+            "startAyah": 21,
+            "endAyah": 43,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/027_21-43.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/027_21-43.mp3"
+            ]
+          },
+          {
+            "startAyah": 44,
+            "endAyah": 65,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/027_44-65.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/027_44-65.mp3"
+            ]
+          },
+          {
+            "startAyah": 66,
+            "endAyah": 93,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/027_66-93.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/027_66-93.mp3"
+            ]
+          }
+        ],
+        "28": [
+          {
+            "startAyah": 1,
+            "endAyah": 25,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/028_01-25.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/028_01-25.mp3"
+            ]
+          },
+          {
+            "startAyah": 26,
+            "endAyah": 50,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/028_26-50.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/028_26-50.mp3"
+            ]
+          },
+          {
+            "startAyah": 51,
+            "endAyah": 68,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/028_51-68.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/028_51-68.mp3"
+            ]
+          },
+          {
+            "startAyah": 69,
+            "endAyah": 88,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/028_69-88.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/028_69-88.mp3"
+            ]
+          }
+        ],
+        "29": [
+          {
+            "startAyah": 1,
+            "endAyah": 23,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/029_01-23.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/029_01-23.mp3"
+            ]
+          },
+          {
+            "startAyah": 24,
+            "endAyah": 45,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/029_24-45.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/029_24-45.mp3"
+            ]
+          },
+          {
+            "startAyah": 46,
+            "endAyah": 69,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/029_46-69.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/029_46-69.mp3"
+            ]
+          }
+        ],
+        "30": [
+          {
+            "startAyah": 1,
+            "endAyah": 31,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/030_01-31.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/030_01-31.mp3"
+            ]
+          },
+          {
+            "startAyah": 32,
+            "endAyah": 60,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/030_32-60.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/030_32-60.mp3"
+            ]
+          }
+        ],
+        "31": [
+          {
+            "startAyah": 1,
+            "endAyah": 18,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/031_01-18.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/031_01-18.mp3"
+            ]
+          },
+          {
+            "startAyah": 19,
+            "endAyah": 34,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/031_19-34.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/031_19-34.mp3"
+            ]
+          }
+        ],
+        "33": [
+          {
+            "startAyah": 1,
+            "endAyah": 18,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/033_01-18.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/033_01-18.mp3"
+            ]
+          },
+          {
+            "startAyah": 19,
+            "endAyah": 36,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/033_19-36.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/033_19-36.mp3"
+            ]
+          },
+          {
+            "startAyah": 37,
+            "endAyah": 49,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/033_37-49.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/033_37-49.mp3"
+            ]
+          },
+          {
+            "startAyah": 50,
+            "endAyah": 73,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/033_50-73.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/033_50-73.mp3"
+            ]
+          }
+        ],
+        "34": [
+          {
+            "startAyah": 1,
+            "endAyah": 19,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/034_01-19.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/034_01-19.mp3"
+            ]
+          },
+          {
+            "startAyah": 20,
+            "endAyah": 36,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/034_20-36.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/034_20-36.mp3"
+            ]
+          },
+          {
+            "startAyah": 37,
+            "endAyah": 54,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/034_37-54.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/034_37-54.mp3"
+            ]
+          }
+        ],
+        "35": [
+          {
+            "startAyah": 1,
+            "endAyah": 23,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/035_01-23.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/035_01-23.mp3"
+            ]
+          },
+          {
+            "startAyah": 24,
+            "endAyah": 45,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/035_24-45.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/035_24-45.mp3"
+            ]
+          }
+        ],
+        "36": [
+          {
+            "startAyah": 1,
+            "endAyah": 39,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/036_01-39.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/036_01-39.mp3"
+            ]
+          },
+          {
+            "startAyah": 40,
+            "endAyah": 83,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/036_40-83.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/036_40-83.mp3"
+            ]
+          }
+        ],
+        "37": [
+          {
+            "startAyah": 1,
+            "endAyah": 60,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/037_001-060.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/037_001-060.mp3"
+            ]
+          },
+          {
+            "startAyah": 61,
+            "endAyah": 126,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/037_061-126.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/037_061-126.mp3"
+            ]
+          },
+          {
+            "startAyah": 127,
+            "endAyah": 182,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/037_127-182.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/037_127-182.mp3"
+            ]
+          }
+        ],
+        "38": [
+          {
+            "startAyah": 1,
+            "endAyah": 40,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/038_01-40.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/038_01-40.mp3"
+            ]
+          },
+          {
+            "startAyah": 41,
+            "endAyah": 88,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/038_41-88.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/038_41-88.mp3"
+            ]
+          }
+        ],
+        "39": [
+          {
+            "startAyah": 1,
+            "endAyah": 16,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/039_01-16.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/039_01-16.mp3"
+            ]
+          },
+          {
+            "startAyah": 17,
+            "endAyah": 35,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/039_17-35.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/039_17-35.mp3"
+            ]
+          },
+          {
+            "startAyah": 36,
+            "endAyah": 58,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/039_36-58.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/039_36-58.mp3"
+            ]
+          },
+          {
+            "startAyah": 59,
+            "endAyah": 75,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/039_59-75.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/039_59-75.mp3"
+            ]
+          }
+        ],
+        "40": [
+          {
+            "startAyah": 1,
+            "endAyah": 15,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/040_01-15.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/040_01-15.mp3"
+            ]
+          },
+          {
+            "startAyah": 16,
+            "endAyah": 33,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/040_16-33.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/040_16-33.mp3"
+            ]
+          },
+          {
+            "startAyah": 34,
+            "endAyah": 60,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/040_34-60.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/040_34-60.mp3"
+            ]
+          },
+          {
+            "startAyah": 61,
+            "endAyah": 85,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/040_61-85.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/040_61-85.mp3"
+            ]
+          }
+        ],
+        "41": [
+          {
+            "startAyah": 1,
+            "endAyah": 31,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/041_01-31.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/041_01-31.mp3"
+            ]
+          },
+          {
+            "startAyah": 32,
+            "endAyah": 54,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/041_32-54.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/041_32-54.mp3"
+            ]
+          }
+        ],
+        "42": [
+          {
+            "startAyah": 1,
+            "endAyah": 23,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/042_01-23.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/042_01-23.mp3"
+            ]
+          },
+          {
+            "startAyah": 24,
+            "endAyah": 53,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/042_24-53.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/042_24-53.mp3"
+            ]
+          }
+        ],
+        "43": [
+          {
+            "startAyah": 1,
+            "endAyah": 45,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/043_01-45.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/043_01-45.mp3"
+            ]
+          },
+          {
+            "startAyah": 46,
+            "endAyah": 89,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/043_46-89.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/043_46-89.mp3"
+            ]
+          }
+        ],
+        "46": [
+          {
+            "startAyah": 1,
+            "endAyah": 16,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/046_01-16.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/046_01-16.mp3"
+            ]
+          },
+          {
+            "startAyah": 17,
+            "endAyah": 35,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/046_17-35.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/046_17-35.mp3"
+            ]
+          }
+        ],
+        "47": [
+          {
+            "startAyah": 1,
+            "endAyah": 19,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/047_01-19.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/047_01-19.mp3"
+            ]
+          },
+          {
+            "startAyah": 20,
+            "endAyah": 38,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/047_20-38.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/047_20-38.mp3"
+            ]
+          }
+        ],
+        "48": [
+          {
+            "startAyah": 1,
+            "endAyah": 24,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/048_01-24.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/048_01-24.mp3"
+            ]
+          },
+          {
+            "startAyah": 25,
+            "endAyah": 29,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/048_25-29.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/048_25-29.mp3"
+            ]
+          }
+        ],
+        "51": [
+          {
+            "startAyah": 1,
+            "endAyah": 36,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/051_01-36.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/051_01-36.mp3"
+            ]
+          },
+          {
+            "startAyah": 37,
+            "endAyah": 60,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/051_37-60.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/051_37-60.mp3"
+            ]
+          }
+        ],
+        "53": [
+          {
+            "startAyah": 1,
+            "endAyah": 28,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/053_01-28.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/053_01-28.mp3"
+            ]
+          },
+          {
+            "startAyah": 29,
+            "endAyah": 62,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/053_29-62.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/053_29-62.mp3"
+            ]
+          }
+        ],
+        "56": [
+          {
+            "startAyah": 1,
+            "endAyah": 61,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/056_01-61.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/056_01-61.mp3"
+            ]
+          },
+          {
+            "startAyah": 62,
+            "endAyah": 96,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/056_62-96.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/056_62-96.mp3"
+            ]
+          }
+        ],
+        "57": [
+          {
+            "startAyah": 1,
+            "endAyah": 18,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/057_01-18.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/057_01-18.mp3"
+            ]
+          },
+          {
+            "startAyah": 19,
+            "endAyah": 29,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/057_19-29.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/057_19-29.mp3"
+            ]
+          }
+        ],
+        "59": [
+          {
+            "startAyah": 1,
+            "endAyah": 10,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/059_01-10.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/059_01-10.mp3"
+            ]
+          },
+          {
+            "startAyah": 11,
+            "endAyah": 24,
+            "urls": [
+              "https://cdn.jsdelivr.net/gh/mansurkhatuev-coder/QuranApp-audio@v1.0.0/tafsir_saadi/059_11-24.mp3",
+              "https://s2.musulmanin.com/audio_knigi/tafsir_saadi/059_11-24.mp3"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
